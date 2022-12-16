@@ -1,0 +1,2 @@
+! could not find pdf documentation for WDI so here is the link: https://datahelpdesk.worldbank.org/knowledgebase/topics/19373-data-compilation-methodology
+! could not find documentation for natural earth data + we used data provided in blackboard.
