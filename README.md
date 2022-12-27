@@ -120,7 +120,7 @@ This project is to analyze the relationship between percentage of clean energy g
 ![Alt text](https://github.com/rahulse10/Python_for_Sustainibility_Analysis/blob/main/visualisations/1.Clean%20energy%20vs%20emissions%20per%20capita.png)
 
 2. Countries compared by % of total emissions vs % of total population (Grouped by Income level)
-![Alt text](../../../../../../../D:/000.%20NTNU/3.%20FALL%202022/TEP4221%20Python%20for%20Sustainability%20Analysis/material/handouts/project/visualisations/2.Countries%20compared%20by%20share%20of%20global%20CO2%20emissions.png)
+![Alt text](https://github.com/rahulse10/Python_for_Sustainibility_Analysis/blob/main/visualisations/2.Countries%20compared%20by%20share%20of%20global%20CO2%20emissions.png)
 
 3. Which countries over- and under-emit relative to their population share
 ![Alt text](../../../../../../../D:/000.%20NTNU/3.%20FALL%202022/TEP4221%20Python%20for%20Sustainability%20Analysis/material/handouts/project/visualisations/3.Which%20countries%20over-%20and%20under-emit.png)
