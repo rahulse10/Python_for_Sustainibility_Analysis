@@ -1,5 +1,5 @@
 # Project: Identifying countries that need to focus on reducing their CO2 emissions
-## TEP4221 - Sustainability Analysis
+## TEP4221 - Python for Sustainability Analysis
 Date: 2022.12.02
 
 Angela Subedi, aangelasu@stud.ntnu.no
