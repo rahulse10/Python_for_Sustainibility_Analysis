@@ -2,7 +2,7 @@
 ## TEP4221 - Python for Sustainability Analysis
 Date: 2022.12.02
 
-Angela Subedi, aangelasu@stud.ntnu.no
+Angela Subedi, angelasu@stud.ntnu.no
 Rahul Sehgal, rahulse@stud.ntnu.no
 
 Keywords: renewable energy; CO2 emissions; population demographics; environment
