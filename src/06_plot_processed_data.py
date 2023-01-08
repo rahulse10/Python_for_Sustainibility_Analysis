@@ -117,3 +117,19 @@ fig.savefig(
 )
 
 # %%
+# * 7. Interactive plot
+import plotly.express as px
+fig = px.scatter(
+    processed_df, 
+    x='Percentage of clean energy generated', 
+    y='Emissions per capita in tCO2', 
+    color = 'Income Group',
+    hover_data = ['Country'],
+    width=1700, 
+    height=900
+)
+fig.show()
+# Save the plot 
+fig.write_html(visualisations_path
+    / "1. Interactive.html")
+# %%
