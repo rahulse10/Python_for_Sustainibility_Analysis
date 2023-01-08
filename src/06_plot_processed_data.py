@@ -117,7 +117,7 @@ fig.savefig(
 )
 
 # %%
-# * 7. Interactive plot
+# * 7. Interactive plot 1
 import plotly.express as px
 fig = px.scatter(
     processed_df, 
@@ -133,3 +133,4 @@ fig.show()
 fig.write_html(visualisations_path
     / "1. Interactive.html")
 # %%
+# * 8. Interactive plot 2
