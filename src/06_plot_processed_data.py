@@ -130,7 +130,7 @@ fig = px.scatter(
 )
 fig.show()
 # Save the plot 
-#fig.write_html(visualisations_path
-#    / "1. Interactive.html")
+fig.write_html(visualisations_path
+    / "1. Interactive_1.html")
 # %%
 # * 8. Interactive plot 2
